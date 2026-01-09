@@ -5,7 +5,7 @@
 # Użyj modułu random
 import random
 
-# Stwórz listę "questions" składającą się z 3 pytań, które często zadają dzieci
+# Stwórz listę "questions" składającą się z kilku pytań, które często zadają dzieci
 questions = [
     "Tato, a czemu niebo jest niebieskie?",
     "Tato, a czemu słońce nie spada z nieba?",
@@ -28,4 +28,5 @@ while answer != "to wszystko":
 
 # Wyświetl wiadomość
 print("Weź się tato")
+
 
